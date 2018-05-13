@@ -7,15 +7,14 @@ body {
 	font-family: 'Rubik', sans-serif;
 }
 
-h1, 
-h2 {
+h1, h2 {
 	font-family: 'Montserrat', sans-serif;
 }
 
 .container {
 	margin: 0 auto;
-	width: 750px;
-	max-width: 750px;
+	width: 700px;
+	max-width: 700px;
 	background-color: #FFF;
 }
 
@@ -30,7 +29,7 @@ header h1 {
 	font-size: 48px;
 }
 
-header h1,
+header h1, 
 header p {
 	color: 	#2d3436;
 	text-align: center;	
